@@ -10,17 +10,11 @@ This tool is intended for travel planners, outdoor event organizers, logistics t
 
 3. Tech Stack
 The dashboard was built using the following tools and technologies:
-
 📊 Power BI Desktop – Primary platform for building interactive visuals and reports.
-
 🔄 Power Query – Used to call the weather API, transform JSON responses, and shape the data into structured tables.
-
 🧮 DAX (Data Analysis Expressions) – For calculated measures (e.g., average temperature, feels-like index), time formatting (sunrise/sunset), and dynamic titles.
-
 🧱 Data Modeling – Relationships created between city/master tables, current weather, and forecast tables for cross-filtering.
-
 🌐 Weather API – (e.g., WeatherAPI / OpenWeather / similar) used to pull live temperature, humidity, wind, and forecast data in JSON format.
-
 📁 File Format – .pbix for the dashboard file and .png/.jpg images for static previews.
 
 5. Data Source
@@ -113,7 +107,6 @@ Practical use of Power BI for live external data integration
 8.Screenshots / Demos
 Show what the dashboard looks like:-
 Example: ![WeatherWatch Dashboard](https://github.com/KartikRathod2003/WeatherWatch-Dashboard/blob/main/project%20ss.png)
-![Dashboard Preview](https://github.com/KartikRathod2003/WeatherWatch-Dashboard/blob/main/project%20ss.png)
 
 
 
