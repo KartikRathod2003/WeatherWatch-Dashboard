@@ -112,8 +112,8 @@ Practical use of Power BI for live external data integration
 
 8.Screenshots / Demos
 Show what the dashboard looks like:-
-Example: ![WeatherWatch Dashboard](images/weatherwatch_dashboard.png)
-![Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo/main/images/weatherwatch_dashboard.png)
+Example: ![WeatherWatch Dashboard](https://github.com/KartikRathod2003/WeatherWatch-Dashboard/blob/main/project%20ss.png)
+![Dashboard Preview](https://github.com/KartikRathod2003/WeatherWatch-Dashboard/blob/main/project%20ss.png)
 
 
 
